@@ -1,10 +1,10 @@
-import { Hero,Navbar } from "@/components";
+import { Hero } from "@/components";
 export default function Home() {
   return (
     <main className="overflow-hidden">
 
       <Hero/>
-      <Navbar/>
+      
 
      </main>
   );
